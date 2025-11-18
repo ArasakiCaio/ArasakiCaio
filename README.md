@@ -7,6 +7,8 @@
 
 - 😜 Fun fact: **I'm allergic to 🐝**
 
+- 📃 See  my resume: <a href="https://arasakicaio.github.io/Curriculum/">Curriculum</a>
+
 <br>
 
 ## 🛠 &nbsp;Tech Stack

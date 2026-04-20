@@ -23,11 +23,7 @@
 
 ###
 
-<p align="left">My name's Caio from Maringá, Brazil<br><br>- 🔭 I’m working as Junior Fullstack Developer<br>- 📚 I'm currently learning about C#, ASP.NET, AngularJS and MongoDB<br>- ⚡ In my free time I like to play games, read manga, and watch anime.</p>
-
-###
-
-<h3 align="left">📃 See  my resume: <a href="https://arasakicaio.github.io/Curriculum/">Curriculum</a></h3>
+<p align="left">My name's Caio from Maringá, Brazil<br><br>- 🔭 I’m working as Junior Fullstack Developer<br>- 📚 I'm currently learning about C#, ASP.NET, AngularJS and MongoDB<br>- ⚡ In my free time I like to play games, read manga, and watch anime.<br>- 📃 See  my resume: <a href="https://arasakicaio.github.io/Curriculum/">Curriculum</a></p>
 
 ###
 

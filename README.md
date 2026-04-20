@@ -92,9 +92,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArasakiCaio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ArasakiCaio&locale=en&mode=weekly&theme=gotham&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArasakiCaio&theme=chartreuse-dark" height="150" alt="activity-graph graph"  />
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArasakiCaio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="200" alt="languages graph"  />
+  </div>
+  <div>
+    <img src="https://streak-stats.demolab.com?user=ArasakiCaio&locale=en&mode=weekly&theme=gotham&hide_border=false&border_radius=5&order=3" height="225" alt="streak graph"  />
+  </div>
+  <div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArasakiCaio&theme=chartreuse-dark" height="250" alt="activity-graph graph"  />
+  </div>
 </div>
 
 ###
